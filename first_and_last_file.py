@@ -19,3 +19,5 @@ else:
         driver = True
 if driver == True:
     print("тру драйвер сан франциско")
+
+input()
